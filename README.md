@@ -1,12 +1,6 @@
-# README
+# Look At My Pet Dot Com
 
-## Application name:
-
-Pet Website
-
-## Names of contributors:
-
-Kyle Chinick
+_Author: Kyle Chinick_
 
 ## Summary:
 
