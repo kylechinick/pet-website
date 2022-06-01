@@ -13,3 +13,19 @@ ul {
   margin: auto;
   width: fit-content;
 }
+
+.dark-div {
+  position: fixed;
+  z-index: -2;
+  background-color: #333;
+  width: 100vw;
+  height: 100vh;
+}
+
+.light-div {
+  position: fixed;
+  z-index: -2;
+  background-color: white;
+  width: 100vw;
+  height: 100vh;
+}
