@@ -14,18 +14,11 @@ ul {
   width: fit-content;
 }
 
-.dark-div {
-  position: fixed;
-  z-index: -2;
+.dark-background {
   background-color: #333;
-  width: 100vw;
-  height: 100vh;
+  color: #f3f3f3;
 }
 
-.light-div {
-  position: fixed;
-  z-index: -2;
-  background-color: white;
-  width: 100vw;
-  height: 100vh;
+.button_light-theme {
+  display: none;
 }
