@@ -1,19 +1,5 @@
 $(document).ready(function () {
-  $('.button_dark-theme').click(function () {
-    $('body').removeClass();
-    $('body').addClass('dark-background');
-    $('.button_dark-theme').toggle();
-    $('.button_light-theme').toggle();
+  $('.button_toggle-theme').click(function () {
+    $('body').toggleClass('dark-background');
   });
 });
-
-$(document).ready(function () {
-  $('.button_light-theme').click(function () {
-    $('body').removeClass();
-    $('.button_light-theme').toggle();
-    $('.button_dark-theme').toggle();
-  });
-});
-
-
-.toggleClass()
